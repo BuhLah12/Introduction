@@ -1,4 +1,4 @@
-# Introdution<h1 align="center">Hi 👋, I'm Haidar Luthfi Kosasih</h1>
+# Introduction<h1 align="center">Hi 👋, I'm Haidar Luthfi Kosasih</h1>
 <h3 align="center">Students from Harkat Negeri University, Central Java, Indonesia</h3>
 
 🕯️  **life is full of mysteries.** <h3 align="left">Connect with me:</h3>

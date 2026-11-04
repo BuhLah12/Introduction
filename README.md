@@ -10,5 +10,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/xampp/FB7A24" alt="xampp" width="40" height="40"/> </a> 
+<a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&ved=0CBcQjRxqFwoTCJiG5q_-7ZcDFQAAAAAdAAAAABA4&opi=89978449" alt="jupyter" width="40" height="40"/> </a> 
 </p>
